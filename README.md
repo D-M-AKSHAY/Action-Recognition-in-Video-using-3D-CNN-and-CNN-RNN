@@ -1,12 +1,12 @@
 # Action Recognition in Videos using 3D-CNN & CNN-RNN
 Dive into our exploration of two state-of-the-art video recognition architectures in Deep Learning: 3D CNN and the CNN-RNN hybrid. 🎥✨
-# I collaborated with two teammates to develop and deliver this comprehensive project.
+I collaborated with two teammates to develop and deliver this comprehensive project.
 # Research Overview
 This study was a collaborative effort by a team of three, guided by our mentor at SRMUAP. Over five months of dedicated research, we delved into video recognition technologies to analyze and compare the performance of these powerful architectures.
 # Dataset and Methodology
 To ensure a robust comparison, we used a subset of the renowned UCF-101 Dataset, focusing on its top five categories. This dataset is a benchmark in action recognition and allowed us to evaluate both models consistently.
-Dataset: UCF Dataset Subset
-Credits: Sayak Paul 🙌
+Dataset Link: [UCF Dataset Subset](https://github.com/sayakpaul/Action-Recognition-in-TensorFlow/releases/download/v1.0.0/ucf101_top5.tar.gz)  
+Credits: [Sayak Paul](https://github.com/sayakpaul) 🙌🙌
 # Our approach included:
 Architectural Selection: Evaluating 3D CNN and CNN-RNN hybrid models.
 Evaluation Metrics: Measuring accuracy, error rates, and computational efficiency.
